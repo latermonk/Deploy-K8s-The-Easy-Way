@@ -4,6 +4,15 @@
 # Kubernetes
 
 
+## k8s.io learning-environment
+### kind
+https://kubernetes.io/docs/setup/learning-environment/kind/   
+
+
+### minikube
+https://kubernetes.io/docs/setup/learning-environment/minikube/   
+
+
 ##  Building a Kubernetes Cluster Using Vagrant
 https://blog.exxactcorp.com/building-a-kubernetes-cluster-using-vagrant/     
 
