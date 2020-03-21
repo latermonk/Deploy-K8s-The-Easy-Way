@@ -4,12 +4,12 @@
 # Kubernetes
 
 
-## k8s.io learning-environment
-### kind
+## K8S.IO learning-environment
+### KIND
 https://kubernetes.io/docs/setup/learning-environment/kind/   
 
 
-### minikube
+### MINIKUBE
 https://kubernetes.io/docs/setup/learning-environment/minikube/   
 
 
@@ -21,6 +21,12 @@ git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_centos.git      # Centos
 git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_ubuntu.git      # Ubuntu k8s Cluster
 
 ```
+
+
+## kubernetes the hard way - vagrant 
+
+https://github.com/kinvolk/kubernetes-the-hard-way-vagrant  
+
 
 
 
