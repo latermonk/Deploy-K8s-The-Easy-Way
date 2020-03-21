@@ -27,6 +27,10 @@ git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_ubuntu.git      # Ubuntu
 
 #  Openshift
 
+## openshift online
+https://console-openshift-console.apps.us-east-1.starter.openshift-online.com  
+
+
 ## Openshift - vagrant 
 https://github.com/eliu/openshift-vagrant/blob/master/README_CN.md  
 
