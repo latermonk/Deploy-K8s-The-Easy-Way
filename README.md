@@ -27,6 +27,11 @@ git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_ubuntu.git      # Ubuntu
 
 #  Openshift
 
+## Openshift Document
+https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/. 
+
+
+
 ## openshift online
 https://console-openshift-console.apps.us-east-1.starter.openshift-online.com  
 
