@@ -32,8 +32,13 @@ https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/.
 
 
 
-## openshift online
+## Openshift Online
 https://console-openshift-console.apps.us-east-1.starter.openshift-online.com  
+
+
+
+-------
+
 
 
 ## Openshift - vagrant 
