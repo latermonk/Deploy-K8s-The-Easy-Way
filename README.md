@@ -6,6 +6,9 @@
 
 ## K8S.IO learning-environment
 ### KIND
+
+https://kind.sigs.k8s.io/docs/user/quick-start/
+
 https://kubernetes.io/docs/setup/learning-environment/kind/   
 
 
