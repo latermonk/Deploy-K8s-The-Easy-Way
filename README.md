@@ -27,6 +27,7 @@ git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_ubuntu.git      # Ubuntu
 
 
 ## /vagrant-ansible-kubernetes   
+https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/   
 
 https://github.com/lvthillo/vagrant-ansible-kubernetes   
 
