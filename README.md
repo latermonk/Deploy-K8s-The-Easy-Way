@@ -26,6 +26,12 @@ git clone https://exxsyseng@bitbucket.org/exxsyseng/k8s_ubuntu.git      # Ubuntu
 ```
 
 
+## /vagrant-ansible-kubernetes   
+
+https://github.com/lvthillo/vagrant-ansible-kubernetes   
+
+
+
 ## kubernetes the hard way - vagrant 
 
 https://github.com/kinvolk/kubernetes-the-hard-way-vagrant  
